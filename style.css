@@ -1,0 +1,131 @@
+
+/* navbar */
+#top_nav{
+    background-color: #daac00 !important;
+   padding:0 8%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+   
+    color: #FFFF;
+    font-size: 20px;
+    
+}
+#serarch_box{
+    background-color: #d0c187;
+    border:none;
+    border-radius:0px;
+    box-shadow : 5px 10px 10px 0px rgb(101, 86, 86);
+    position:realtive;
+    
+}
+#serarch_box::placeholder{
+    color: white;
+}
+
+#search_button{
+    position:absolute;
+    border-radius: 0px;
+
+    right:6%;
+    color:aliceblue;
+    background-color: rgb(46, 43, 212);
+    box-shadow : 5px 10px 10px 0px rgb(101, 86, 86);
+
+}
+
+/* container */
+
+#banner{
+    background-color: #fcc302;
+    padding-bottom: 50px;
+}
+#bannertext h1{
+    font-size: 70px;
+    margin-top: 100px;
+    color:white;
+    
+
+}
+#bannertext p{
+    font-size: 20px;
+    color:white;
+}
+#bannerbtn1{
+    margin-top: 30px;
+ background-color: #00bec9;
+ color:white;
+ border:2px solid #00bec9
+
+}
+#bannerbtn2{
+    border:2px solid white;
+    margin-top: 30px;
+    margin-left: 10px;
+    color:white;
+
+
+}
+#image{
+    margin-top: 100px;
+}
+/* service */
+#service{
+    /* padding-top: 10%; */
+    padding-bottom: 5%;
+}
+#servicetext{
+    padding-top: 10%;
+}
+#servicetext h1{
+    /* font-size: 50px; */
+    /* font-weight: 700; */
+}
+#servicetext p{
+    font-size: 20px;;
+}
+#servicebtn{
+    border:2px solid firebrick;
+    /* padding: 5px; */
+    box-shadow: 5px 10px 11px 0px rgb(218, 217, 217) ;
+}
+#serviceimage{
+   margin-top: 50px;
+}
+#icons{
+    font-size: 50px;
+    color:red
+}
+#container{
+    padding-bottom: 5%;
+}
+#blog{
+   
+    padding: 20px 30%;
+    /* background-color: #00bec9; */
+}
+#image{
+    width:100%;
+    
+}
+#card{
+    /* border: 2px solid red; */
+    margin:10px;
+    box-shadow: 5px 10px 11px 0px rgb(218, 217, 217) ;
+
+}
+#blog-data{
+    font-size: 20px;
+}
+
+#p1{
+    color:blue;
+    font-weight: 600;
+}
+#p3{
+    font-size: 20px;
+}
+#p2{
+    color: blue;
+    padding-bottom: 20%;
+}
